@@ -1,0 +1,352 @@
+﻿[
+  {
+    "Numero": 1,
+    "Nome": "Bulbasaur",
+    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Especie": "Seed",
+    "Tipo": ["Planta", "Venenoso"],
+    "Altura": 0.7,
+    "Peso": 6.9,
+    "Imagem": "\\img\\pokemons\\001.png"
+  },
+  {
+    "Numero": 2,
+    "Nome": "Ivysaur",
+    "Descricao": "Ivysaur tem um bulbo maior nas costas. A semente em crescimento absorve nutrientes do solo para se desenvolver.",
+    "Especie": "Semente",
+    "Tipo": ["Planta", "Venenoso"],
+    "Altura": 1.0,
+    "Peso": 13.0,
+    "Imagem": "\\img\\pokemons\\002.png"
+  },
+  {
+    "Numero": 3,
+    "Nome": "Venusaur",
+    "Descricao": "Venusaur é o resultado final de uma evolução. A fragrância da flor em sua costas é conhecida por acalmar os nervos das pessoas.",
+    "Especie": "Flor",
+    "Tipo": ["Planta", "Venenoso"],
+    "Altura": 2.0,
+    "Peso": 100.0,
+    "Imagem": "\\img\\pokemons\\003.png"
+  },
+  {
+    "Numero": 4,
+    "Nome": "Charmander",
+    "Descricao": "Charmander possui uma chama na ponta de sua cauda. Se a chama se apagar, ele morrerá, então ele a mantém acesa a todo custo.",
+    "Especie": "Lagarto",
+    "Tipo": ["Fogo"],
+    "Altura": 0.6,
+    "Peso": 8.5,
+    "Imagem": "\\img\\pokemons\\004.png"
+  },
+  {
+    "Numero": 5,
+    "Nome": "Charmeleon",
+    "Descricao": "Charmeleon é conhecido por sua natureza teimosa e seu desejo de ser o líder. Ele evolui de Charmander.",
+    "Especie": "Chama",
+    "Tipo": ["Fogo"],
+    "Altura": 1.1,
+    "Peso": 19.0,
+    "Imagem": "\\img\\pokemons\\005.png"
+  },
+  {
+    "Numero": 6,
+    "Nome": "Charizard",
+    "Descricao": "Charizard voa pelo céu em busca de desafios poderosos. É conhecido por sua fúria ardente.",
+    "Especie": "Chama",
+    "Tipo": ["Fogo", "Voador"],
+    "Altura": 1.7,
+    "Peso": 90.5,
+    "Imagem": "\\img\\pokemons\\006.png"
+  },
+  {
+    "Numero": 7,
+    "Nome": "Squirtle",
+    "Descricao": "Squirtle bombeia água de sua cauda para se mover rapidamente e nadar. Ele é conhecido por sua casca dura.",
+    "Especie": "Tartaruga",
+    "Tipo": ["Água"],
+    "Altura": 0.5,
+    "Peso": 9.0,
+    "Imagem": "\\img\\pokemons\\007.png"
+  },
+  {
+    "Numero": 8,
+    "Nome": "Wartortle",
+    "Descricao": "Wartortle tem uma cauda com formato de hélice que ele usa para nadar com agilidade. Ele é a forma evoluída de Squirtle.",
+    "Especie": "Tartaruga",
+    "Tipo": ["Água"],
+    "Altura": 1.0,
+    "Peso": 22.5,
+    "Imagem": "\\img\\pokemons\\008.png"
+  },
+  {
+    "Numero": 9,
+    "Nome": "Blastoise",
+    "Descricao": "Blastoise é a forma final de Squirtle. Ele possui poderosos canhões de água que podem derrubar prédios inteiros.",
+    "Especie": "Tartaruga",
+    "Tipo": ["Água"],
+    "Altura": 1.6,
+    "Peso": 85.5,
+    "Imagem": "\\img\\pokemons\\009.png"
+  },
+  {
+    "Numero": 10,
+    "Nome": "Caterpie",
+    "Descricao": "Caterpie é conhecido por sua natureza gentil e por sua habilidade de liberar um odor ruim de suas antenas para afastar predadores.",
+    "Especie": "Lagarta",
+    "Tipo": ["Inseto"],
+    "Altura": 0.3,
+    "Peso": 2.9,
+    "Imagem": "\\img\\pokemons\\010.png"
+  },
+  {
+    "Numero": 11,
+    "Nome": "Metapod",
+    "Descricao": "Metapod se esconde dentro de sua concha dura enquanto evolui. Ele pode endurecer sua concha para se proteger de predadores.",
+    "Especie": "Casulo",
+    "Tipo": ["Inseto"],
+    "Altura": 0.7,
+    "Peso": 9.9,
+    "Imagem": "\\img\\pokemons\\011.png"
+  },
+  {
+    "Numero": 12,
+    "Nome": "Butterfree",
+    "Descricao": "Butterfree tem asas grandes e coloridas que lhe permitem voar com graça. Ele é conhecido por seu pólen soporífero.",
+    "Especie": "Borboleta",
+    "Tipo": ["Inseto", "Voador"],
+    "Altura": 1.1,
+    "Peso": 32.0,
+    "Imagem": "\\img\\pokemons\\012.png"
+  },
+  {
+    "Numero": 13,
+    "Nome": "Weedle",
+    "Descricao": "Weedle tem uma agulha venenosa em sua cabeça que ele usa para injetar veneno em seus inimigos.",
+    "Especie": "Lagarta",
+    "Tipo": ["Inseto", "Venenoso"],
+    "Altura": 0.3,
+    "Peso": 3.2,
+    "Imagem": "\\img\\pokemons\\013.png"
+  },
+  {
+    "Numero": 14,
+    "Nome": "Kakuna",
+    "Descricao": "Kakuna se pendura em galhos de árvores enquanto espera para evoluir. Ele pode endurecer sua casca para se proteger.",
+    "Especie": "Casulo",
+    "Tipo": ["Inseto", "Venenoso"],
+    "Altura": 0.6,
+    "Peso": 10.0,
+    "Imagem": "\\img\\pokemons\\014.png"
+  },
+  {
+    "Numero": 15,
+    "Nome": "Beedrill",
+    "Descricao": "Beedrill tem agulhas venenosas em seus braços que ele usa para atacar. Ele é conhecido por seu zumbido assustador.",
+    "Especie": "Abeelha",
+    "Tipo": ["Inseto", "Venenoso"],
+    "Altura": 1.0,
+    "Peso": 29.5,
+    "Imagem": "\\img\\pokemons\\015.png"
+  },
+  {
+    "Numero": 16,
+    "Nome": "Pidgey",
+    "Descricao": "Pidgey é um Pokémon comum encontrado em muitas áreas. Ele tem uma visão afiada e pode detectar presas a longas distâncias.",
+    "Especie": "Pássaro",
+    "Tipo": ["Normal", "Voador"],
+    "Altura": 0.3,
+    "Peso": 1.8,
+    "Imagem": "\\img\\pokemons\\016.png"
+  },
+  {
+    "Numero": 17,
+    "Nome": "Pidgeotto",
+    "Descricao": "Pidgeotto é a forma evoluída de Pidgey. Ele é conhecido por sua habilidade de voar em altas altitudes e capturar presas com precisão.",
+    "Especie": "Pássaro",
+    "Tipo": ["Normal", "Voador"],
+    "Altura": 1.1,
+    "Peso": 30.0,
+    "Imagem": "\\img\\pokemons\\017.png"
+  },
+  {
+    "Numero": 18,
+    "Nome": "Pidgeot",
+    "Descricao": "Pidgeot é a forma final de Pidgey. Ele é conhecido por sua velocidade e agilidade no ar.",
+    "Especie": "Pássaro",
+    "Tipo": ["Normal", "Voador"],
+    "Altura": 1.5,
+    "Peso": 39.5,
+    "Imagem": "\\img\\pokemons\\018.png"
+  },
+  {
+    "Numero": 19,
+    "Nome": "Rattata",
+    "Descricao": "Rattata é um Pokémon roedor encontrado em áreas urbanas. Ele é conhecido por sua habilidade de roer e mastigar coisas.",
+    "Especie": "Rato",
+    "Tipo": ["Normal"],
+    "Altura": 0.3,
+    "Peso": 3.5,
+    "Imagem": "\\img\\pokemons\\019.png"
+  },
+  {
+    "Numero": 20,
+    "Nome": "Raticate",
+    "Descricao": "Raticate é a forma evoluída de Rattata. Ele é conhecido por sua mordida poderosa e por sua agilidade em combate.",
+    "Especie": "Rato",
+    "Tipo": ["Normal"],
+    "Altura": 0.7,
+    "Peso": 18.5,
+    "Imagem": "\\img\\pokemons\\020.png"
+  },
+  {
+    "Numero": 21,
+    "Nome": "Spearow",
+    "Descricao": "Spearow é um Pokémon pássaro encontrado em áreas selvagens. Ele é conhecido por sua natureza agressiva e por sua visão afiada.",
+    "Especie": "Pássaro",
+    "Tipo": ["Normal", "Voador"],
+    "Altura": 0.3,
+    "Peso": 2.0,
+    "Imagem": "\\img\\pokemons\\021.png"
+  },
+  {
+    "Numero": 22,
+    "Nome": "Fearow",
+    "Descricao": "Fearow é a forma evoluída de Spearow. Ele é conhecido por sua habilidade de voar em grandes altitudes e por sua visão aguçada.",
+    "Especie": "Pássaro",
+    "Tipo": ["Normal", "Voador"],
+    "Altura": 1.2,
+    "Peso": 38.0,
+    "Imagem": "\\img\\pokemons\\022.png"
+  },
+  {
+    "Numero": 23,
+    "Nome": "Ekans",
+    "Descricao": "Ekans é um Pokémon serpente conhecido por sua habilidade de se esconder em grama alta e emboscar presas.",
+    "Especie": "Cobra",
+    "Tipo": ["Venenoso"],
+    "Altura": 2.0,
+    "Peso": 6.9,
+    "Imagem": "\\img\\pokemons\\023.png"
+  },
+  {
+    "Numero": 24,
+    "Nome": "Arbok",
+    "Descricao": "Arbok é a forma evoluída de Ekans. Ele é conhecido por sua capacidade de assustar inimigos com seu padrão de manchas nas costas.",
+    "Especie": "Cobra",
+    "Tipo": ["Venenoso"],
+    "Altura": 3.5,
+    "Peso": 65.0,
+    "Imagem": "\\img\\pokemons\\024.png"
+  },
+  {
+    "Numero": 25,
+    "Nome": "Pikachu",
+    "Descricao": "Pikachu é um Pokémon roedor elétrico conhecido por sua fofura e por sua capacidade de gerar eletricidade.",
+    "Especie": "Rato",
+    "Tipo": ["Elétrico"],
+    "Altura": 0.4,
+    "Peso": 6.0,
+    "Imagem": "\\img\\pokemons\\025.png"
+  },
+  {
+    "Numero": 26,
+    "Nome": "Raichu",
+    "Descricao": "Raichu é a forma evoluída de Pikachu. Ele é conhecido por sua habilidade de gerar eletricidade e por sua cauda em forma de raio.",
+    "Especie": "Rato",
+    "Tipo": ["Elétrico"],
+    "Altura": 0.8,
+    "Peso": 30.0,
+    "Imagem": "\\img\\pokemons\\026.png"
+  },
+  {
+    "Numero": 27,
+    "Nome": "Sandshrew",
+    "Descricao": "Sandshrew é um Pokémon roedor encontrado em desertos. Ele é conhecido por sua pele dura e sua capacidade de cavar buracos.",
+    "Especie": "Rato",
+    "Tipo": ["Terrestre"],
+    "Altura": 0.6,
+    "Peso": 12.0,
+    "Imagem": "\\img\\pokemons\\027.png"
+  },
+  {
+    "Numero": 28,
+    "Nome": "Sandslash",
+    "Descricao": "Sandslash é a forma evoluída de Sandshrew. Ele é conhecido por sua habilidade de rolar em uma bola para atacar seus inimigos.",
+    "Especie": "Toupeira",
+    "Tipo": ["Terrestre"],
+    "Altura": 1.0,
+    "Peso": 29.5,
+    "Imagem": "\\img\\pokemons\\028.png"
+  },
+  {
+    "Numero": 29,
+    "Nome": "Nidoran♀",
+    "Descricao": "Nidoran♀ é um Pokémon do tipo Venenoso. Ela é conhecida por sua natureza tímida e por sua capacidade de liberar veneno através de suas antenas.",
+    "Especie": "Venenoso",
+    "Tipo": ["Venenoso"],
+    "Altura": 0.4,
+    "Peso": 7.0,
+    "Imagem": "\\img\\pokemons\\029.png"
+  },
+  {
+    "Numero": 30,
+    "Nome": "Nidorina",
+    "Descricao": "Nidorina é a forma evoluída de Nidoran♀. Ela é conhecida por sua natureza protetora e por seu veneno poderoso.",
+    "Especie": "Venenoso",
+    "Tipo": ["Venenoso"],
+    "Altura": 0.8,
+    "Peso": 20.0,
+    "Imagem": "\\img\\pokemons\\030.png"
+  },
+  {
+    "Numero": 31,
+    "Nome": "Nidoqueen",
+    "Descricao": "Nidoqueen é a forma final de Nidoran♀. Ela é conhecida por sua força incrível e por sua pele resistente.",
+    "Especie": "Broca",
+    "Tipo": ["Venenoso", "Terrestre"],
+    "Altura": 1.3,
+    "Peso": 60.0,
+    "Imagem": "\\img\\pokemons\\031.png"
+  },
+  {
+    "Numero": 32,
+    "Nome": "Nidoran♂",
+    "Descricao": "Nidoran♂ é um Pokémon do tipo Venenoso. Ele é conhecido por sua natureza agressiva e por sua capacidade de liberar veneno através de suas antenas.",
+    "Especie": "Venenoso",
+    "Tipo": ["Venenoso"],
+    "Altura": 0.5,
+    "Peso": 9.0,
+    "Imagem": "\\img\\pokemons\\032.png"
+  },
+  {
+    "Numero": 33,
+    "Nome": "Nidorino",
+    "Descricao": "Nidorino é a forma evoluída de Nidoran♂. Ele é conhecido por sua natureza combativa e por seu veneno poderoso.",
+    "Especie": "Venenoso",
+    "Tipo": ["Venenoso"],
+    "Altura": 0.9,
+    "Peso": 19.5,
+    "Imagem": "\\img\\pokemons\\033.png"
+  },
+  {
+    "Numero": 34,
+    "Nome": "Nidoking",
+    "Descricao": "Nidoking é a forma final de Nidoran♂. Ele é conhecido por sua força imensa e por sua pele resistente.",
+    "Especie": "Broca",
+    "Tipo": ["Venenoso", "Terrestre"],
+    "Altura": 1.4,
+    "Peso": 62.0,
+    "Imagem": "\\img\\pokemons\\034.png"
+  },
+  {
+    "Numero": 35,
+    "Nome": "Clefairy",
+    "Descricao": "Clefairy é um Pokémon do tipo Fada. Ele é conhecido por sua natureza amigável e por sua habilidade de saltar na lua.",
+    "Especie": "Fada",
+    "Tipo": ["Fada"],
+    "Altura": 0.6,
+    "Peso": 7.5,
+    "Imagem": "\\img\\pokemons\\035.png"
+  }
+]
