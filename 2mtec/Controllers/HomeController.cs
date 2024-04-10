@@ -20,8 +20,15 @@ public class HomeController : Controller
         using (StreamReader leitor = new("Data\\alunos.json"))
         {
             string dados = leitor.ReadToEnd();
-         alunos = JsonSerializer.Deserialize<List<Aluno>>(dados);
+            alunos = JsonSerializer.Deserialize<List<Aluno>>(dados);
         }
+        List<Turma> turma = [];
+        using (StreamReader leitor = new("Data\\turma.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            turma = JsonSerializer.Deserialize<List<Turma>>(dados);
+        }
+        ViewData["Turma"] = turma;
         return View(alunos);
     }
 

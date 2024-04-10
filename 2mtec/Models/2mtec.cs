@@ -5,6 +5,6 @@ namespace _2mtec.Models;
     {
         public int Numero { get; set; }   
         public string Nome { get; set; }
-        public string Descricao { get; set; }
-        public string Caracteristica { get; set; }
+        public string Turma { get; set; }
+        public string Imagem { get; set; }
     }
